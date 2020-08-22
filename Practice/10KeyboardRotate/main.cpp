@@ -10,7 +10,6 @@ GLfloat xAngle, yAngle, zAngle;
 
 GLboolean bAmbient;
 
-
 int main(){
     glutCreateWindow("Practice");
     glutInitDisplayMode(GLUT_RGB|GLUT_DEPTH);
