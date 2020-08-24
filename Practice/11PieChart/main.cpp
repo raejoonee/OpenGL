@@ -3,7 +3,6 @@
 #include <math.h>
 #include <stdlib.h>
 
-
 GLsizei winWidth = 600, winHeight = 500;
 GLubyte label[] = "JanFebMarAprMayJunJulAugSepOctNovDec";
 
