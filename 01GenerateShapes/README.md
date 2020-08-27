@@ -1,0 +1,1 @@
+Type any positive integer to generate random two-dimensional shape as many as that number.
