@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="HW#4" />
+		<Option title="05Multiple3DObjects" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/HW#4" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/05Multiple3DObjects" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="c:/program files (x86)/codeblocks/mingw/bin" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/HW#4" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/05Multiple3DObjects" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="c:/program files (x86)/codeblocks/mingw/bin" />
 				<Option object_output="obj/Release/" />
 				<Option type="0" />
